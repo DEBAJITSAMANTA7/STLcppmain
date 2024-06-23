@@ -1,0 +1,41 @@
+User Defined Types:
+
+Defining custom data types using structures and enumerations
+Typedef keyword for creating aliases for existing data types
+Creating abstract data types (ADTs) to encapsulate data and operations
+Access Restricted Lists (Stacks/Queues):
+
+Implementation and operations of stacks (Last-In-First-Out) and queues (First-In-First-Out)
+Push, pop, enqueue, and dequeue operations
+Array-based and linked list-based implementations
+Applications of stacks and queues in algorithms and data structures
+Binary Trees:
+
+Structure and properties of binary trees
+Traversal algorithms (in-order, pre-order, post-order)
+Binary search trees (BST) and their operations (insertion, deletion, searching)
+Balanced binary trees (AVL trees, Red-Black trees)
+Macros and Preprocessing:
+
+Preprocessor directives (#define, #include, #ifdef, #ifndef, #endif, etc.)
+Macro definitions and usage
+Conditional compilation
+Macros for code optimization and abstraction
+Modular Programming – Separate Compilation and Linking:
+
+Modular programming principles
+Separate compilation and linking of modules
+Header files and their role in separate compilation
+Creating and using libraries (.lib, .a)
+File and I/O Operations:
+
+File handling in C (opening, closing, reading, and writing files)
+File input/output functions (fopen, fclose, fread, fwrite, fprintf, fscanf, etc.)
+Error handling with file operations
+File positioning and random access
+String Processing:
+
+String manipulation functions (strlen, strcpy, strcat, strcmp, etc.)
+Handling character arrays and strings
+String formatting and parsing
+Regular expressions for advanced string processing tasks
